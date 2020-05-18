@@ -1,0 +1,11 @@
+{
+  "name": "flyio-fastify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Gabin Desserprit",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^2.14.1"
+  }
+}
